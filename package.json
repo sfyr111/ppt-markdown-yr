@@ -1,0 +1,19 @@
+{
+  "name": "ppt-markdown-yr",
+  "version": "1.0.0",
+  "description": "ppt-markdown转化工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfyr111/ppt-markdown-yr.git"
+  },
+  "author": "yangran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sfyr111/ppt-markdown-yr/issues"
+  },
+  "homepage": "https://github.com/sfyr111/ppt-markdown-yr#readme"
+}
